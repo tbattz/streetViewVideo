@@ -15,8 +15,11 @@ Your overall key should be placed in the apiKey.txt file in the top direction. N
 You will also need the following modules
 - googlemaps
 - polyline
+- LatLon
+
 They can be installed using
 ```
 sudo -H pip install googlemaps
 sudo -H pip install polyline
+sudo -H pip install LatLon
 ```
